@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "KandylandDao",
-    cardImage: "assets/images/project-page/kandyland.jpg",
+    cardImage: "https://lh3.googleusercontent.com/pw/AM-JKLWRdx0od0_RLX8WkF77USE7B6TUqJSWbuHQteZIuyETu9Z_tdIgwMedIbIP-FB_hzsqLMAknyseaWhJxx9h4hm82bmbzovGwP1PEo3cdVOPwCaWNg9PsSHivUmLzjPhldz9V4ZvKXRi6vEFMPrxPoI=w1166-h810-no?authuser=0",
     description: "KandylandDao was forked from wanderlandDao. This is worked on the avalanche",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://appkandyland.on.fleek.co/",
@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "RoofRuler",
-    cardImage: "assets/images/project-page/roofruler.jpg",
+    cardImage: "https://lh3.googleusercontent.com/pw/AM-JKLVWthiHAxC64nh0TUswKDYd43XiwMTWndf9rkp-HNqDbbrvaFQBrU42d7wWY0K5MVaWmep1gWEPD2XWkc_nIuFV6rsfk-BykXWWVoTZefo7lSTwspoO3RvHMx9mtkfh2uvoNT5WP44F6JAozcecx90=w1200-h800-no?authuser=0",
     description: "Roof Ruler is the best roof measurement tool. Let you freely measure the roof from the clouds without being restricted by time, location and cost.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://roofruler.com/",
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "GridGaming",
-    cardImage: "assets/images/project-page/gridgaming.png",
+    cardImage: "https://lh3.googleusercontent.com/pw/AM-JKLUNyxaDjI4aPDl4NL4hJsbUDSv6WZzj7RQu0a-wSzHGfy2Zplht7Jks3xagedKAX3CsJTIgbE-p-GERxS4cvJAr-vAasW8-tuyykRzQwpAqynDGe_fRHgI3NsEXBKup4WCKV659p_B4O5tF_9MZH2E=w1433-h948-no?authuser=0",
     description: "Go from zero-to-hero with a trademarked system. Sponsor a giveaway and tap into the grid. See why we're the fastest growing promotion brand on Twitter.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://www.gridgaming.io/",
@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: "Cuba theme",
-    cardImage: "assets/images/project-page/cuba.png",
+    cardImage: "https://lh3.googleusercontent.com/pw/AM-JKLVHEnOabvKoKHMRL_5zzf5D4WTpFENHkWOhyNWpeOmyMCF-glVZBqzVn8o2nON4HYwfqBh6nJ65cceztMl5WoFzp0hB1Wv16rLeiUSNHqcHfFv3ssssltSzlsUnOUmgYJxKPvafEDIxSwaYk_ZJrzM=w728-h692-no?authuser=0",
     description: "Benefits Of Clothes Swapping",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
@@ -39,7 +39,7 @@ const projects = [
   },
   {
     title: "EVERETH",
-    cardImage: "assets/images/project-page/ever-eth.png",
+    cardImage: "https://lh3.googleusercontent.com/pw/AM-JKLXmyTQOPsXTita88-rWbj0AtgyoiyzJJI1l0FrWlEvUzN16bXbPv6yEvXf0odY4yr2T8h35-0irrlehyl6Gdx8cjRAXcX93h2-X0Sj9o2OHvGpFLm1Yen-Y2EEXlFpw7u-vwvSJpyatN2CBTZ393k8=w1152-h909-no?authuser=0",
     description: "HOLD EVERETH EARN ETHEREUM",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
@@ -47,7 +47,7 @@ const projects = [
   },
   {
     title: "Benefits Of Clothes Swapping",
-    cardImage: "assets/images/project-page/benefits.png",
+    cardImage: "https://lh3.googleusercontent.com/pw/AM-JKLWtJrMWzVOi2riAgaaOYzwQUW7WfKwjz_XVUqvVRYbP53K3e9zziMy-3cTimQxp9tIooWbaGIumTuMFFGXkNSnI_dEF95ygZPvA3ewxpE66jTE5604R6q8XZWtU1Gj2Wv2bOxtGurHiDMwdU-GIll8=w903-h864-no?authuser=0",
     description: "Benefits Of Clothes Swapping",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
